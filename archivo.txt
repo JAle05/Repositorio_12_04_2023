@@ -1,0 +1,7 @@
+total 14
+drwxr-xr-x 1 Curso Tarde 197121   0 Apr 12 11:35 ./
+drwxr-xr-x 1 Curso Tarde 197121   0 Apr 12 10:47 ../
+drwxr-xr-x 1 Curso Tarde 197121   0 Apr 12 11:29 .git/
+-rw-r--r-- 1 Curso Tarde 197121 559 Mar 28 09:42 CALCULARAREATRIANGULO.psc
+-rw-r--r-- 1 Curso Tarde 197121 260 Mar 21 14:59 Ejemplo01.psc
+-rw-r--r-- 1 Curso Tarde 197121   0 Apr 12 11:35 archivo.txt
